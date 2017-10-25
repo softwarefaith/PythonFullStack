@@ -1,0 +1,19 @@
+#!/usr/bin/env python         //指定了脚本编译环境  Mac下 默认路径 /usr/bin
+# -*- coding: utf-8 -*-       //字符编码格式\
+
+python脚本中经常第一句出现#!/usr/bin/env python或#!/usr/bin/python。这句话的意义下面解释：
+
+脚本语言的第一行，目的就是指出，你想要你的这个文件中的代码用什么可执行程序去运行它，就这么简单
+
+#!/usr/bin/python是告诉操作系统执行这个脚本的时候，调用/usr/bin下的python解释器；
+#!/usr/bin/env python这种用法是为了防止操作系统用户没有将python装在默认的/usr/bin路径里。当系统看到这一行的时候，首先会到env设置里查找python的安装路径，再调用对应路径下的解释器程序完成操作。
+#!/usr/bin/python相当于写死了python路径;
+#!/usr/bin/env python会去环境设置寻找python目录,推荐这种写法
+
+=========Python 标识符
+在 Python 里，标识符由字母、数字、下划线组成。
+在 Python 中，所有标识符可以包括英文、数字以及下划线(_)，但不能以数字开头。
+Python 中的标识符是区分大小写的。
+以下划线开头的标识符是有特殊意义的。以单下划线开头 _foo 的代表不能直接访问的类属性，需通过类提供的接口进行访问，不能用 from xxx import * 而导入；
+以双下划线开头的 __foo 代表类的私有成员；以双下划线开头和结尾的 __foo__ 代表 Python 里特殊方法专用的标识，如 __init__() 代表类的构造函数。
+Python 可以同一行显示多条语句，方法是用分号 ; 分开

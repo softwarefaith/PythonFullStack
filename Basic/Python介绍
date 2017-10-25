@@ -1,0 +1,37 @@
+======Python 应用
+
+
+Python可以应用于众多领域，如：数据分析、组件集成、网络服务、图像处理、数值计算和科学计算等众多领域。
+
+目前Python主要应用领域：
+
+云计算: 云计算最火的语言， 典型应用OpenStack
+WEB开发: 众多优秀的WEB框架，众多大型网站均为Python开发，Youtube, Dropbox, 豆瓣。。。， 典型WEB框架有Django
+科学运算、人工智能: 典型库NumPy, SciPy, Matplotlib, Enthought librarys,pandas
+系统运维: 运维人员必备语言
+金融：量化交易，金融分析，在金融工程领域，Python不但在用，且用的最多，而且重要性逐年提高。
+      原因：作为动态语言的Python，语言结构清晰简单，库丰富，成熟稳定，科学计算和统计分析都很牛逼，生产效率远远高于c,c++,java,尤其擅长策略回测
+图形GUI: PyQT, WxPython,TkInter
+
+
+======Python语言
+
+python是一门动态解释性的强类型定义语言
+
+Python的解释器很多，但使用最广泛的还是CPython。
+如果要和Java或.Net平台交互，最好的办法不是用Jython或IronPython，而是通过网络调用来交互，确保各程序之间的独立性。
+
+
+
+
+简述Python的运行过程
+
+在说这个问题之前，我们先来说两个概念，PyCodeObject和pyc文件。
+
+我们在硬盘上看到的pyc自然不必多说，而其实PyCodeObject则是Python编译器真正编译成的结果。我们先简单知道就可以了，继续向下看。
+
+当python程序运行时，编译的结果则是保存在位于内存中的PyCodeObject中，当Python程序运行结束时，Python解释器则将PyCodeObject写回到pyc文件中。
+
+当python程序第二次运行时，首先程序会在硬盘中寻找pyc文件，如果找到，则直接载入，否则就重复上面的过程。
+
+所以我们应该这样来定位PyCodeObject和pyc文件，我们说pyc文件其实是PyCodeObject的一种持久化保存方式。
