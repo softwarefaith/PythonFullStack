@@ -51,6 +51,8 @@ print("删除004", py_list1)
 py_list1.remove("005")
 print("删除005", py_list1)
 
+py_list1.pop(0)  # 删除最后一个
+print("pop第一个元素", py_list1)
 
 py_list1.pop()  # 删除最后一个
 print("删除最后一个", py_list1)
@@ -94,7 +96,7 @@ py_tuple0 = (11, 22, 33)
 
 py_tuple1 = tuple((44, 55, 66))
 
-py_tuple3 = (88, )
+py_tuple3 = (88, )   # 一个元素需要后面加逗号
 
 py_tuple4 = py_tuple0 + py_tuple3
 
@@ -104,16 +106,6 @@ py_tuple0.count(11)
 py_tuple0.index(55)
 
 
-# ==========字典
-
-# ---创建
-
-py_Dictionary0 = {"name": 'cai', "age": 28}
-
-py_Dictionary1 = dict({"name": 'jie', 'age': 29})
-
-# ---常用操作
-# ----索引,新增,删除, 键|值|键值对, 循环 ,长度
 
 
 
