@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfc3e804-4e0d-4cb7-8176-6e2b92acb9a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basic/006generator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basic/007iterator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functionprogramming/000Introduce.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functionprogramming/001AdvanceFunction.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functionprogramming/002returnFunc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functionprogramming/003AnonymousFunc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functionprogramming/004Decorator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functionprogramming/005PartialFunc.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basic/004iterate.py" afterPath="$PROJECT_DIR$/Basic/004iterate.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +18,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonFullStack$001AdvanceFunction.coverage" NAME="001AdvanceFunction Coverage Results" MODIFIED="1509094890638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functionprogramming" />
     <SUITE FILE_PATH="coverage/PythonFullStack$003_function.coverage" NAME="003_function Coverage Results" MODIFIED="1509086864202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/PythonFullStack$002the_set.coverage" NAME="002the_set Coverage Results" MODIFIED="1509001612398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/PythonFullStack$004Decorator.coverage" NAME="004Decorator Coverage Results" MODIFIED="1509095166766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functionprogramming" />
     <SUITE FILE_PATH="coverage/PythonFullStack$001the_dic.coverage" NAME="001the_dic Coverage Results" MODIFIED="1509000518046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/PythonFullStack$Unittests_in_005ListFormula_py.coverage" NAME="Unittests in 005ListFormula.py Coverage Results" MODIFIED="1509087073228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/PythonFullStack$DataType.coverage" NAME="DataType Coverage Results" MODIFIED="1508999391659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/PythonFullStack$005PartialFunc.coverage" NAME="005PartialFunc Coverage Results" MODIFIED="1509095956033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functionprogramming" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -27,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="007iterator.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Basic/007iterator.py">
+      <file leaf-file-name="005PartialFunc.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Functionprogramming/005PartialFunc.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+              <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -64,6 +70,12 @@
         <option value="$PROJECT_DIR$/Basic/004iterate.py" />
         <option value="$PROJECT_DIR$/Basic/006generator.py" />
         <option value="$PROJECT_DIR$/Basic/007iterator.py" />
+        <option value="$PROJECT_DIR$/Functionprogramming/001AdvanceFunction.py" />
+        <option value="$PROJECT_DIR$/Functionprogramming/000Introduce.py" />
+        <option value="$PROJECT_DIR$/Functionprogramming/002returnFunc.py" />
+        <option value="$PROJECT_DIR$/Functionprogramming/003AnonymousFunc.py" />
+        <option value="$PROJECT_DIR$/Functionprogramming/004Decorator.py" />
+        <option value="$PROJECT_DIR$/Functionprogramming/005PartialFunc.py" />
       </list>
     </option>
   </component>
@@ -74,8 +86,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="105" />
-    <option name="y" value="67" />
+    <option name="x" value="360" />
+    <option name="y" value="45" />
     <option name="width" value="1260" />
     <option name="height" value="700" />
   </component>
@@ -123,6 +135,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Functionprogramming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonFullStack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonFullStack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Basic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -151,64 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in 005ListFormula.py">
-    <configuration default="false" name="DataType" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonFullStack" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/DataType.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="001the_dic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonFullStack" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/001the_dic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="002the_set" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonFullStack" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/002the_set.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.005PartialFunc">
     <configuration default="false" name="003_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,6 +211,63 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/Basic/005ListFormula.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="001AdvanceFunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functionprogramming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFullStack" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functionprogramming/001AdvanceFunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="004Decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functionprogramming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFullStack" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functionprogramming/004Decorator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="005PartialFunc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functionprogramming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFullStack" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functionprogramming/005PartialFunc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -393,19 +419,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.DataType" />
-      <item index="1" class="java.lang.String" itemvalue="Python.001the_dic" />
-      <item index="2" class="java.lang.String" itemvalue="Python.002the_set" />
-      <item index="3" class="java.lang.String" itemvalue="Python.003_function" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in 005ListFormula.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python.003_function" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in 005ListFormula.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.001AdvanceFunction" />
+      <item index="3" class="java.lang.String" itemvalue="Python.004Decorator" />
+      <item index="4" class="java.lang.String" itemvalue="Python.005PartialFunc" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in 005ListFormula.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python.003_function" />
-        <item index="2" class="java.lang.String" itemvalue="Python.002the_set" />
-        <item index="3" class="java.lang.String" itemvalue="Python.001the_dic" />
-        <item index="4" class="java.lang.String" itemvalue="Python.DataType" />
+        <item index="0" class="java.lang.String" itemvalue="Python.005PartialFunc" />
+        <item index="1" class="java.lang.String" itemvalue="Python.004Decorator" />
+        <item index="2" class="java.lang.String" itemvalue="Python.001AdvanceFunction" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in 005ListFormula.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python.003_function" />
       </list>
     </recent_temporary>
   </component>
@@ -437,14 +463,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="105" y="67" width="1260" height="700" extended-state="0" />
+    <frame x="360" y="45" width="1260" height="700" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49195403" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -905,8 +931,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic/007iterator.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <marker date="1509091122000" expanded="true" signature="0:489" ph="&quot;&quot;&quot;直接作用于for循环的数据类型有以下几种：...&quot;&quot;&quot;" />
+            <marker date="1509091122000" expanded="true" signature="551:837" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509091122000" expanded="true" signature="839:1030" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functionprogramming/001AdvanceFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <marker date="1509093167000" expanded="true" signature="0:57" ph="..." />
+            <marker date="1509093167000" expanded="true" signature="59:142" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509093167000" expanded="true" signature="154:171" ph="..." />
+            <marker date="1509093167000" expanded="true" signature="234:375" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509093167000" expanded="true" signature="423:440" ph="..." />
+            <marker date="1509093167000" expanded="true" signature="515:716" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509093167000" expanded="true" signature="731:739" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functionprogramming/000Introduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1509093543000" expanded="true" signature="0:378" ph="&quot;&quot;&quot;函数就是面向过程的程序设计的基本单元。...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functionprogramming/002returnFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <marker date="1509093975000" expanded="true" signature="8:64" ph="&quot;&quot;&quot;把函数作为结果值返回...&quot;&quot;&quot;" />
+            <marker date="1509093975000" expanded="true" signature="72:255" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509093975000" expanded="true" signature="270:445" ph="..." />
+            <marker date="1509093975000" expanded="true" signature="284:341" ph="..." />
+            <marker date="1509093975000" expanded="true" signature="301:324" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functionprogramming/003AnonymousFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <marker date="1509094223000" expanded="true" signature="8:189" ph="&quot;&quot;&quot;1.关键字lambda表示匿名函数...&quot;&quot;&quot;" />
+            <marker date="1509094223000" expanded="true" signature="208:241" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functionprogramming/004Decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding>
+            <marker date="1509095256000" expanded="true" signature="7:91" ph="&quot;&quot;&quot;1.由于函数也是一个对象，而且函数对象可以被赋值给变量，所以，通过变量也能调用该函数。...&quot;&quot;&quot;" />
+            <marker date="1509095256000" expanded="true" signature="126:288" ph="..." />
+            <marker date="1509095256000" expanded="true" signature="211:268" ph="..." />
+            <marker date="1509095256000" expanded="true" signature="306:323" ph="..." />
+            <marker date="1509095256000" expanded="true" signature="381:708" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509095256000" expanded="true" signature="710:900" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functionprogramming/005PartialFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
           <folding />
         </state>
       </provider>
