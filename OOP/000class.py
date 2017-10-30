@@ -171,3 +171,69 @@ super(child_class, child_object).parent_attribute(arg)
 而在经典类中则使用深度优先搜索算法。
 
 """
+
+# 类型判断
+
+"""
+如果要判断一个对象是否是函数怎么办？可以使用types模块中定义的常量
+"""
+print('类型判断', type(student)) # <class '__main__.Student'>
+
+import types
+
+
+def fn():
+    pass
+
+print('我的类型是函数吗?:', type(fn) ==types.FunctionType)
+
+"""
+对于class的继承关系来说，使用type()就很不方便。
+我们要判断class的类型，可以使用isinstance()函数
+"""
+
+# 能用type()判断的基本类型也可以用isinstance()判断
+type('abs') == str
+isinstance('asd', str)
+
+# 判断一个变量是否是某些类型中的一种
+isinstance([1, 2, 3], (list, tuple))
+
+# 获得一个对象的所有属性和方法
+# 类似__xxx__的属性和方法在Python中都是有特殊用途的
+print('对象的所有属性和方法:', dir('ABC'))
+
+# 配合getattr()、setattr()以及hasattr()
+# 我们可以直接操作一个对象的状态: 属性
+
+print('============')
+
+class Student2(Person):
+    name = '类属性'
+
+
+s = Student2('Allan00', 100)
+
+# 打印name属性，因为实例并没有name属性，所以会打印类属性
+print('类属性', s.name)
+
+print(Student2.name) # 打印类的name属性
+
+s.name = 'Allan 8888'
+# # 由于实例属性优先级比类属性高，因此，它会屏蔽掉类的name属性
+print(s.name)
+
+print(Student2.name)  # 但是类属性并未消失，用Student.name仍然可以访问
+
+
+del s.name
+# 再次调用s.name，由于实例的name属性没有找到，类的name属性就显示出来了
+print(s.name)
+
+
+"""
+在编写程序的时候，千万不要把实例属性和类属性使用相同的名字，
+因为相同名称的实例属性将屏蔽掉类属性，
+但是当你删除实例属性后，再使用相同的名称，访问到的将是类属性
+
+"""

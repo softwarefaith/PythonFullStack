@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfc3e804-4e0d-4cb7-8176-6e2b92acb9a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP/000class.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OOP/000class.py" afterPath="$PROJECT_DIR$/OOP/000class.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +19,7 @@
     <SUITE FILE_PATH="coverage/PythonFullStack$001the_dic.coverage" NAME="001the_dic Coverage Results" MODIFIED="1509000518046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/PythonFullStack$Unittests_in_005ListFormula_py.coverage" NAME="Unittests in 005ListFormula.py Coverage Results" MODIFIED="1509087073228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/PythonFullStack$DataType.coverage" NAME="DataType Coverage Results" MODIFIED="1508999391659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonFullStack$000class.coverage" NAME="000class Coverage Results" MODIFIED="1509347323682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/PythonFullStack$000class.coverage" NAME="000class Coverage Results" MODIFIED="1509349764436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/PythonFullStack$005PartialFunc.coverage" NAME="005PartialFunc Coverage Results" MODIFIED="1509344672949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functionprogramming" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
@@ -32,8 +31,8 @@
       <file leaf-file-name="000class.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OOP/000class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="167" column="18" lean-forward="true" selection-start-line="167" selection-start-column="18" selection-end-line="167" selection-end-column="18" />
+            <state relative-caret-position="257">
+              <caret line="236" column="0" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,8 +85,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="112" />
-    <option name="y" value="52" />
+    <option name="x" value="154" />
+    <option name="y" value="25" />
     <option name="width" value="1260" />
     <option name="height" value="700" />
   </component>
@@ -459,7 +458,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="52" width="1260" height="700" extended-state="0" />
+    <frame x="154" y="25" width="1260" height="700" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49195403" order="0" side_tool="false" content_ui="combo" />
@@ -670,10 +669,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/types.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <marker date="1493219534000" expanded="true" signature="0:133" ph="..." />
+            <marker date="1493219534000" expanded="false" signature="135:474" ph="import ..." />
+            <marker date="1493219534000" expanded="true" signature="269:403" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="550:587" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="608:1132" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1040:1044" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1128:1132" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1175:2298" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2294:2298" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2361:2550" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2421:2425" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2467:2471" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2512:2516" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2546:2550" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2669:2689" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2711:3208" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2919:2923" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2954:2958" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2987:2991" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3028:3032" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3094:3098" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3204:3208" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3230:3631" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3410:3414" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3451:3455" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3517:3521" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3627:3631" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3650:3788" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3784:3788" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3815:3931" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3927:3931" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3993:4137" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="4155:4501" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="4497:4501" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="4530:4754" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="4657:4661" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="4702:4706" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="4750:4754" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="4782:5006" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="4909:4913" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="4954:4958" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="5002:5006" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="5151:5155" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="5291:5295" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="5462:5466" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/OOP/000class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="167" column="18" lean-forward="true" selection-start-line="167" selection-start-column="18" selection-end-line="167" selection-end-column="18" />
+        <state relative-caret-position="257">
+          <caret line="236" column="0" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
           <folding />
         </state>
       </provider>
