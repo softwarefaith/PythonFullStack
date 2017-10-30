@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfc3e804-4e0d-4cb7-8176-6e2b92acb9a7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/000module.py" afterPath="$PROJECT_DIR$/module/000module.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/001useModule.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="000module.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module/000module.py">
+      <file leaf-file-name="001useModule.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module/001useModule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="516">
+              <caret line="80" column="3" lean-forward="true" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -72,6 +73,7 @@
         <option value="$PROJECT_DIR$/Basic/007iterator.py" />
         <option value="$PROJECT_DIR$/Functionprogramming/005PartialFunc.py" />
         <option value="$PROJECT_DIR$/module/000module.py" />
+        <option value="$PROJECT_DIR$/module/001useModule.py" />
       </list>
     </option>
   </component>
@@ -82,7 +84,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="137" />
+    <option name="x" value="131" />
     <option name="y" value="60" />
     <option name="width" value="1260" />
     <option name="height" value="700" />
@@ -180,7 +182,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/caijie/PycharmProjects/PythonFullStack/Functionprogramming/005PartialFunc.py" />
@@ -483,7 +485,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="137" y="60" width="1260" height="700" extended-state="0" />
+    <frame x="131" y="60" width="1260" height="700" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49195403" order="0" side_tool="false" content_ui="combo" />
@@ -767,8 +769,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module/000module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="268">
+          <caret line="56" column="20" lean-forward="true" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+          <folding>
+            <marker date="1509334817000" expanded="true" signature="20:134" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509334817000" expanded="true" signature="144:297" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509334817000" expanded="true" signature="314:443" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509334817000" expanded="true" signature="460:792" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/001useModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="80" column="3" lean-forward="true" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
           <folding />
         </state>
       </provider>
