@@ -36,7 +36,6 @@
 为了避免模块名冲突
 Python又引入了按目录来组织模块的方法，称为包（Package）.
 引入了包以后，只要顶层的包名不与别人冲突，那所有模块都不会与别人冲突
-比如:abc.py 在MyProduct 目录下,则模块的名字变为了 MyProduct.abc
 
 
 Python 模块化 存在两种方式:
@@ -56,5 +55,18 @@ Python 模块化 存在两种方式:
 3.创建模块时要注意命名，不能和Python自带的模块名称冲突
 
 4.可以有多级目录，组成多级层次的包结构
+
+abc.py ,Web文件夹 在MyProduct 目录下
+-- MyProduct
+    -abc.py
+    --Web
+        -cde.py
+
+
+
+则模块的名字变为了 MyProduct.abc
+MyProduct.Web.cde
+
+
 
 """
