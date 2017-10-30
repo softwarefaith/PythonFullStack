@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfc3e804-4e0d-4cb7-8176-6e2b92acb9a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/001useModule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP/000class.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +20,8 @@
     <SUITE FILE_PATH="coverage/PythonFullStack$001the_dic.coverage" NAME="001the_dic Coverage Results" MODIFIED="1509000518046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/PythonFullStack$Unittests_in_005ListFormula_py.coverage" NAME="Unittests in 005ListFormula.py Coverage Results" MODIFIED="1509087073228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/PythonFullStack$DataType.coverage" NAME="DataType Coverage Results" MODIFIED="1508999391659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonFullStack$005PartialFunc.coverage" NAME="005PartialFunc Coverage Results" MODIFIED="1509095956033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functionprogramming" />
+    <SUITE FILE_PATH="coverage/PythonFullStack$000class.coverage" NAME="000class Coverage Results" MODIFIED="1509347323682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/PythonFullStack$005PartialFunc.coverage" NAME="005PartialFunc Coverage Results" MODIFIED="1509344672949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functionprogramming" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -28,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="001useModule.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module/001useModule.py">
+      <file leaf-file-name="000class.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOP/000class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="80" column="3" lean-forward="true" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
+            <state relative-caret-position="202">
+              <caret line="167" column="18" lean-forward="true" selection-start-line="167" selection-start-column="18" selection-end-line="167" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -74,6 +75,7 @@
         <option value="$PROJECT_DIR$/Functionprogramming/005PartialFunc.py" />
         <option value="$PROJECT_DIR$/module/000module.py" />
         <option value="$PROJECT_DIR$/module/001useModule.py" />
+        <option value="$PROJECT_DIR$/OOP/000class.py" />
       </list>
     </option>
   </component>
@@ -84,8 +86,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="131" />
-    <option name="y" value="60" />
+    <option name="x" value="112" />
+    <option name="y" value="52" />
     <option name="width" value="1260" />
     <option name="height" value="700" />
   </component>
@@ -107,6 +109,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -143,42 +147,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonFullStack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonFullStack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Functionprogramming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonFullStack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonFullStack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Basic" />
+              <option name="myItemId" value="OOP" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,26 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.005PartialFunc">
-    <configuration default="false" name="003_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonFullStack" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/003_function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.000class">
     <configuration default="false" name="Unittests in 005ListFormula.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,6 +242,25 @@
       <module name="PythonFullStack" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functionprogramming/005PartialFunc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="000class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFullStack" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/000class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -441,19 +415,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.003_function" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in 005ListFormula.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python.001AdvanceFunction" />
-      <item index="3" class="java.lang.String" itemvalue="Python.004Decorator" />
-      <item index="4" class="java.lang.String" itemvalue="Python.005PartialFunc" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in 005ListFormula.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python.001AdvanceFunction" />
+      <item index="2" class="java.lang.String" itemvalue="Python.004Decorator" />
+      <item index="3" class="java.lang.String" itemvalue="Python.005PartialFunc" />
+      <item index="4" class="java.lang.String" itemvalue="Python.000class" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.005PartialFunc" />
-        <item index="1" class="java.lang.String" itemvalue="Python.004Decorator" />
-        <item index="2" class="java.lang.String" itemvalue="Python.001AdvanceFunction" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in 005ListFormula.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python.003_function" />
+        <item index="0" class="java.lang.String" itemvalue="Python.000class" />
+        <item index="1" class="java.lang.String" itemvalue="Python.005PartialFunc" />
+        <item index="2" class="java.lang.String" itemvalue="Python.004Decorator" />
+        <item index="3" class="java.lang.String" itemvalue="Python.001AdvanceFunction" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in 005ListFormula.py" />
       </list>
     </recent_temporary>
   </component>
@@ -485,14 +459,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="131" y="60" width="1260" height="700" extended-state="0" />
+    <frame x="112" y="52" width="1260" height="700" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49195403" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3312789" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -524,16 +498,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OOP/000class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Basic/006generator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="814">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <marker date="1509090764000" expanded="true" signature="0:251" ph="&quot;&quot;&quot;=====生成器...&quot;&quot;&quot;" />
-            <marker date="1509090764000" expanded="true" signature="360:519" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509090764000" expanded="true" signature="560:709" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509090764000" expanded="true" signature="711:1015" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -541,18 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-          <folding>
-            <marker date="1509332283000" expanded="true" signature="2:161" ph="&quot;&quot;&quot;函数基本理论:...&quot;&quot;&quot;" />
-            <marker date="1509332283000" expanded="true" signature="164:305" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509332283000" expanded="true" signature="353:412" ph="..." />
-            <marker date="1509332283000" expanded="true" signature="496:739" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509332283000" expanded="true" signature="756:789" ph="..." />
-            <marker date="1509332283000" expanded="true" signature="841:1163" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509332283000" expanded="true" signature="1202:1254" ph="..." />
-            <marker date="1509332283000" expanded="true" signature="1336:1386" ph="..." />
-            <marker date="1509332283000" expanded="true" signature="1451:1875" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509332283000" expanded="true" signature="1878:1894" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -605,12 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-716">
           <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding>
-            <marker date="1509003948000" expanded="true" signature="15:60" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509003948000" expanded="true" signature="152:193" ph="..." />
-            <marker date="1509003948000" expanded="true" signature="522:561" ph="..." />
-            <marker date="1509003948000" expanded="true" signature="617:653" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -618,10 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-149">
           <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-          <folding>
-            <marker date="1509001825000" expanded="true" signature="0:64" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509001825000" expanded="true" signature="235:247" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -629,18 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
           <caret line="127" column="12" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
-          <folding>
-            <marker date="1509332283000" expanded="true" signature="2:161" ph="&quot;&quot;&quot;函数基本理论:...&quot;&quot;&quot;" />
-            <marker date="1509332283000" expanded="true" signature="164:305" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509332283000" expanded="true" signature="353:412" ph="..." />
-            <marker date="1509332283000" expanded="true" signature="496:739" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509332283000" expanded="true" signature="756:789" ph="..." />
-            <marker date="1509332283000" expanded="true" signature="841:1163" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509332283000" expanded="true" signature="1202:1254" ph="..." />
-            <marker date="1509332283000" expanded="true" signature="1336:1386" ph="..." />
-            <marker date="1509332283000" expanded="true" signature="1451:1875" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509332283000" expanded="true" signature="1878:1894" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -648,9 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <marker date="1509090607000" expanded="true" signature="1:338" ph="&quot;&quot;&quot;===迭代...&quot;&quot;&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -658,10 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-          <folding>
-            <marker date="1509087174000" expanded="true" signature="1:279" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509087174000" expanded="true" signature="378:528" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -669,12 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-320">
           <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-          <folding>
-            <marker date="1509090764000" expanded="true" signature="0:251" ph="&quot;&quot;&quot;=====生成器...&quot;&quot;&quot;" />
-            <marker date="1509090764000" expanded="true" signature="360:519" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509090764000" expanded="true" signature="560:709" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509090764000" expanded="true" signature="711:1015" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -682,11 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="428">
           <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding>
-            <marker date="1509332804000" expanded="true" signature="0:489" ph="&quot;&quot;&quot;直接作用于for循环的数据类型有以下几种：...&quot;&quot;&quot;" />
-            <marker date="1509332804000" expanded="true" signature="551:843" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509332804000" expanded="true" signature="845:1037" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -694,9 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="42" />
-          <folding>
-            <marker date="1509093543000" expanded="true" signature="0:378" ph="&quot;&quot;&quot;函数就是面向过程的程序设计的基本单元。...&quot;&quot;&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,10 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding>
-            <marker date="1509094223000" expanded="true" signature="8:189" ph="&quot;&quot;&quot;1.关键字lambda表示匿名函数...&quot;&quot;&quot;" />
-            <marker date="1509094223000" expanded="true" signature="208:241" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -715,15 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
           <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding>
-            <marker date="1509093167000" expanded="true" signature="0:57" ph="..." />
-            <marker date="1509093167000" expanded="true" signature="59:142" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509093167000" expanded="true" signature="154:171" ph="..." />
-            <marker date="1509093167000" expanded="true" signature="234:375" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509093167000" expanded="true" signature="423:440" ph="..." />
-            <marker date="1509093167000" expanded="true" signature="515:716" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509093167000" expanded="true" signature="731:739" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -731,13 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <marker date="1509093975000" expanded="true" signature="8:64" ph="&quot;&quot;&quot;把函数作为结果值返回...&quot;&quot;&quot;" />
-            <marker date="1509093975000" expanded="true" signature="72:255" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509093975000" expanded="true" signature="270:445" ph="..." />
-            <marker date="1509093975000" expanded="true" signature="284:341" ph="..." />
-            <marker date="1509093975000" expanded="true" signature="301:324" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -745,14 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="948">
           <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding>
-            <marker date="1509095256000" expanded="true" signature="7:91" ph="&quot;&quot;&quot;1.由于函数也是一个对象，而且函数对象可以被赋值给变量，所以，通过变量也能调用该函数。...&quot;&quot;&quot;" />
-            <marker date="1509095256000" expanded="true" signature="126:288" ph="..." />
-            <marker date="1509095256000" expanded="true" signature="211:268" ph="..." />
-            <marker date="1509095256000" expanded="true" signature="306:323" ph="..." />
-            <marker date="1509095256000" expanded="true" signature="381:708" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509095256000" expanded="true" signature="710:900" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -760,10 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <marker date="1509331229000" expanded="true" signature="7:219" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509331229000" expanded="true" signature="254:271" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -771,12 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="56" column="20" lean-forward="true" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
-          <folding>
-            <marker date="1509334817000" expanded="true" signature="20:134" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509334817000" expanded="true" signature="144:297" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509334817000" expanded="true" signature="314:443" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509334817000" expanded="true" signature="460:792" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,6 +667,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
           <caret line="80" column="3" lean-forward="true" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/000class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="167" column="18" lean-forward="true" selection-start-line="167" selection-start-column="18" selection-end-line="167" selection-end-column="18" />
           <folding />
         </state>
       </provider>
