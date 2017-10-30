@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfc3e804-4e0d-4cb7-8176-6e2b92acb9a7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basic/003_function.py" afterPath="$PROJECT_DIR$/Basic/003_function.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basic/007iterator.py" afterPath="$PROJECT_DIR$/Basic/007iterator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functionprogramming/005PartialFunc.py" afterPath="$PROJECT_DIR$/Functionprogramming/005PartialFunc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/000module.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="004Decorator.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functionprogramming/004Decorator.py">
+      <file leaf-file-name="000module.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module/000module.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1166">
-              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+            <state relative-caret-position="472">
+              <caret line="57" column="20" lean-forward="false" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -70,9 +69,10 @@
         <option value="$PROJECT_DIR$/Functionprogramming/003AnonymousFunc.py" />
         <option value="$PROJECT_DIR$/Functionprogramming/004Decorator.py" />
         <option value="$PROJECT_DIR$/Guides" />
-        <option value="$PROJECT_DIR$/Functionprogramming/005PartialFunc.py" />
         <option value="$PROJECT_DIR$/Basic/003_function.py" />
         <option value="$PROJECT_DIR$/Basic/007iterator.py" />
+        <option value="$PROJECT_DIR$/Functionprogramming/005PartialFunc.py" />
+        <option value="$PROJECT_DIR$/module/000module.py" />
       </list>
     </option>
   </component>
@@ -83,8 +83,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-20" />
-    <option name="y" value="23" />
+    <option name="x" value="137" />
+    <option name="y" value="60" />
     <option name="width" value="1260" />
     <option name="height" value="700" />
   </component>
@@ -142,6 +142,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonFullStack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonFullStack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Functionprogramming" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -170,7 +184,7 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/caijie/PycharmProjects/PythonFullStack/Basic/004iterate.py" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/caijie/PycharmProjects/PythonFullStack/Functionprogramming/005PartialFunc.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -470,7 +484,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-20" y="23" width="1260" height="700" extended-state="0" />
+    <frame x="137" y="60" width="1260" height="700" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49195403" order="0" side_tool="false" content_ui="combo" />
@@ -610,17 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functionprogramming/005PartialFunc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <marker date="1509331229000" expanded="true" signature="7:219" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509331229000" expanded="true" signature="254:271" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basic/003_function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
@@ -696,6 +699,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Functionprogramming/003AnonymousFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <marker date="1509094223000" expanded="true" signature="8:189" ph="&quot;&quot;&quot;1.关键字lambda表示匿名函数...&quot;&quot;&quot;" />
+            <marker date="1509094223000" expanded="true" signature="208:241" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Functionprogramming/001AdvanceFunction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
@@ -714,7 +728,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functionprogramming/002returnFunc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="660">
           <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <marker date="1509093975000" expanded="true" signature="8:64" ph="&quot;&quot;&quot;把函数作为结果值返回...&quot;&quot;&quot;" />
@@ -726,21 +740,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functionprogramming/003AnonymousFunc.py">
+    <entry file="file://$PROJECT_DIR$/Functionprogramming/004Decorator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state relative-caret-position="948">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding>
-            <marker date="1509094223000" expanded="true" signature="8:189" ph="&quot;&quot;&quot;1.关键字lambda表示匿名函数...&quot;&quot;&quot;" />
-            <marker date="1509094223000" expanded="true" signature="208:241" ph="..." />
+            <marker date="1509095256000" expanded="true" signature="7:91" ph="&quot;&quot;&quot;1.由于函数也是一个对象，而且函数对象可以被赋值给变量，所以，通过变量也能调用该函数。...&quot;&quot;&quot;" />
+            <marker date="1509095256000" expanded="true" signature="126:288" ph="..." />
+            <marker date="1509095256000" expanded="true" signature="211:268" ph="..." />
+            <marker date="1509095256000" expanded="true" signature="306:323" ph="..." />
+            <marker date="1509095256000" expanded="true" signature="381:708" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509095256000" expanded="true" signature="710:900" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functionprogramming/004Decorator.py">
+    <entry file="file://$PROJECT_DIR$/Functionprogramming/005PartialFunc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1166">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        <state relative-caret-position="208">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1509331229000" expanded="true" signature="7:219" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509331229000" expanded="true" signature="254:271" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/000module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="57" column="20" lean-forward="false" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
           <folding />
         </state>
       </provider>
