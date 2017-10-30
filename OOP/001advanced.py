@@ -35,3 +35,33 @@ p.set_age = MethodType(set_age, p)
 p.set_age(30)
 
 print("age = ", p.age)
+
+# 属性检查
+"""
+Python内置的@property装饰器
+负责把一个方法变成属性调用的：
+
+@property广泛应用在类的定义中，可以让调用者写出简短的代码，
+同时保证对参数进行必要的检查，这样，程序运行时就减少了出错的可能性。
+"""
+
+
+class Person2(object):
+
+    def __init__(self, birth):
+        self.__birth = birth
+
+# birth 可读可写
+    @property
+    def birth(self):
+        return self.__birth
+
+    @birth.setter
+    def birth(self, value):
+        self.__birth = value
+
+    @property
+    def age(self):     # age 只读属性
+        return 50;
+
+

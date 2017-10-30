@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfc3e804-4e0d-4cb7-8176-6e2b92acb9a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP/001advanced.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP/003customClass.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP/004enumclass.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OOP/000class.py" afterPath="$PROJECT_DIR$/OOP/000class.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OOP/001advanced.py" afterPath="$PROJECT_DIR$/OOP/001advanced.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,6 +23,7 @@
     <SUITE FILE_PATH="coverage/PythonFullStack$001the_dic.coverage" NAME="001the_dic Coverage Results" MODIFIED="1509000518046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/PythonFullStack$Unittests_in_005ListFormula_py.coverage" NAME="Unittests in 005ListFormula.py Coverage Results" MODIFIED="1509087073228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/PythonFullStack$001advanced.coverage" NAME="001advanced Coverage Results" MODIFIED="1509350536202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/PythonFullStack$004enumclass.coverage" NAME="004enumclass Coverage Results" MODIFIED="1509354359548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/PythonFullStack$DataType.coverage" NAME="DataType Coverage Results" MODIFIED="1508999391659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/PythonFullStack$000class.coverage" NAME="000class Coverage Results" MODIFIED="1509349764436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/PythonFullStack$005PartialFunc.coverage" NAME="005PartialFunc Coverage Results" MODIFIED="1509344672949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functionprogramming" />
@@ -30,11 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="001advanced.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OOP/001advanced.py">
+      <file leaf-file-name="004enumclass.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOP/004enumclass.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            <state relative-caret-position="51">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -76,8 +80,10 @@
         <option value="$PROJECT_DIR$/Functionprogramming/005PartialFunc.py" />
         <option value="$PROJECT_DIR$/module/000module.py" />
         <option value="$PROJECT_DIR$/module/001useModule.py" />
-        <option value="$PROJECT_DIR$/OOP/000class.py" />
         <option value="$PROJECT_DIR$/OOP/001advanced.py" />
+        <option value="$PROJECT_DIR$/OOP/000class.py" />
+        <option value="$PROJECT_DIR$/OOP/003customClass.py" />
+        <option value="$PROJECT_DIR$/OOP/004enumclass.py" />
       </list>
     </option>
   </component>
@@ -88,7 +94,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="355" />
+    <option name="x" value="213" />
     <option name="y" value="23" />
     <option name="width" value="1260" />
     <option name="height" value="700" />
@@ -175,26 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.001advanced">
-    <configuration default="false" name="001AdvanceFunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functionprogramming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonFullStack" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functionprogramming/001AdvanceFunction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.004enumclass">
     <configuration default="false" name="004Decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,6 +253,25 @@
       <module name="PythonFullStack" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/001advanced.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="004enumclass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFullStack" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/004enumclass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -420,19 +426,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.001AdvanceFunction" />
-      <item index="1" class="java.lang.String" itemvalue="Python.004Decorator" />
-      <item index="2" class="java.lang.String" itemvalue="Python.005PartialFunc" />
-      <item index="3" class="java.lang.String" itemvalue="Python.000class" />
-      <item index="4" class="java.lang.String" itemvalue="Python.001advanced" />
+      <item index="0" class="java.lang.String" itemvalue="Python.004Decorator" />
+      <item index="1" class="java.lang.String" itemvalue="Python.005PartialFunc" />
+      <item index="2" class="java.lang.String" itemvalue="Python.000class" />
+      <item index="3" class="java.lang.String" itemvalue="Python.001advanced" />
+      <item index="4" class="java.lang.String" itemvalue="Python.004enumclass" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.001advanced" />
-        <item index="1" class="java.lang.String" itemvalue="Python.000class" />
-        <item index="2" class="java.lang.String" itemvalue="Python.005PartialFunc" />
-        <item index="3" class="java.lang.String" itemvalue="Python.004Decorator" />
-        <item index="4" class="java.lang.String" itemvalue="Python.001AdvanceFunction" />
+        <item index="0" class="java.lang.String" itemvalue="Python.004enumclass" />
+        <item index="1" class="java.lang.String" itemvalue="Python.001advanced" />
+        <item index="2" class="java.lang.String" itemvalue="Python.000class" />
+        <item index="3" class="java.lang.String" itemvalue="Python.005PartialFunc" />
+        <item index="4" class="java.lang.String" itemvalue="Python.004Decorator" />
       </list>
     </recent_temporary>
   </component>
@@ -464,14 +470,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="355" y="23" width="1260" height="700" extended-state="0" />
+    <frame x="213" y="23" width="1260" height="700" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49195403" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3312789" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34360555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -508,27 +514,28 @@
         <state relative-caret-position="286">
           <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
-            <marker date="1509349801000" expanded="true" signature="17:185" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="187:387" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="411:631" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="447:557" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="577:631" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="761:838" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="985:1077" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="1157:1645" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="1660:1959" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="1984:2141" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="2003:2071" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="2093:2141" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="2206:2542" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="2551:2820" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="2830:2873" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="2957:2966" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="3020:3090" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="3229:3279" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="3314:3370" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="3418:3435" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="3759:3849" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="17:185" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="187:387" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="411:631" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="447:557" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="577:631" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="761:838" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="985:1077" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="1157:1645" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="1660:1959" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="1984:2141" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="2003:2071" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="2093:2141" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="2206:2542" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="2551:2820" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="2830:2873" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="2957:2966" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="3020:3090" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="3229:3279" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="3314:3370" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="3418:3435" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="3759:3849" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="3860:4159" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
           </folding>
         </state>
       </provider>
@@ -753,38 +760,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP/000class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="230" column="13" lean-forward="true" selection-start-line="230" selection-start-column="13" selection-end-line="230" selection-end-column="13" />
+        <state relative-caret-position="103">
+          <caret line="243" column="26" lean-forward="true" selection-start-line="243" selection-start-column="26" selection-end-line="243" selection-end-column="26" />
           <folding>
-            <marker date="1509349801000" expanded="true" signature="17:185" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="187:387" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="411:631" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="447:557" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="577:631" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="761:838" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="985:1077" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="1157:1645" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="1660:1959" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="1984:2141" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="2003:2071" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="2093:2141" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="2206:2542" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="2551:2820" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="2830:2873" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="2957:2966" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="3020:3090" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1509349801000" expanded="true" signature="3229:3279" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="3314:3370" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="3418:3435" ph="..." />
-            <marker date="1509349801000" expanded="true" signature="3759:3849" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="17:185" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="187:387" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="411:631" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="447:557" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="577:631" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="761:838" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="985:1077" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="1157:1645" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="1660:1959" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="1984:2141" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="2003:2071" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="2093:2141" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="2206:2542" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="2551:2820" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="2830:2873" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="2957:2966" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="3020:3090" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="3229:3279" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="3314:3370" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="3418:3435" ph="..." />
+            <marker date="1509351497000" expanded="true" signature="3759:3849" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351497000" expanded="true" signature="3860:4159" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP/001advanced.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="301">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <marker date="1509351180000" expanded="true" signature="16:262" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351180000" expanded="true" signature="286:339" ph="..." />
+            <marker date="1509351180000" expanded="true" signature="365:384" ph="..." />
+            <marker date="1509351180000" expanded="true" signature="511:627" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509351180000" expanded="true" signature="652:934" ph="..." />
+            <marker date="1509351180000" expanded="true" signature="684:713" ph="..." />
+            <marker date="1509351180000" expanded="true" signature="762:790" ph="..." />
+            <marker date="1509351180000" expanded="true" signature="837:866" ph="..." />
+            <marker date="1509351180000" expanded="true" signature="900:934" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/003customClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="105" column="16" lean-forward="true" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+          <folding>
+            <marker date="1509353774000" expanded="true" signature="14:42" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509353774000" expanded="true" signature="45:65" ph="..." />
+            <marker date="1509353774000" expanded="true" signature="67:207" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509353774000" expanded="true" signature="220:374" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509353774000" expanded="true" signature="395:717" ph="..." />
+            <marker date="1509353774000" expanded="true" signature="419:464" ph="..." />
+            <marker date="1509353774000" expanded="true" signature="489:529" ph="..." />
+            <marker date="1509353774000" expanded="true" signature="554:717" ph="..." />
+            <marker date="1509353774000" expanded="true" signature="734:836" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509353774000" expanded="true" signature="858:1379" ph="..." />
+            <marker date="1509353774000" expanded="true" signature="888:1379" ph="..." />
+            <marker date="1509353774000" expanded="true" signature="919:1035" ph="..." />
+            <marker date="1509353774000" expanded="true" signature="1068:1379" ph="..." />
+            <marker date="1509353774000" expanded="true" signature="1263:1358" ph="..." />
+            <marker date="1509353774000" expanded="true" signature="1420:1592" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509353774000" expanded="true" signature="1606:1840" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1509353774000" expanded="true" signature="1842:2096" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/004enumclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
