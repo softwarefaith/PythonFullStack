@@ -10,6 +10,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="004random.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module/004random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/module/004random.py" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -17,8 +45,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="61" />
+    <option name="x" value="405" />
+    <option name="y" value="101" />
     <option name="width" value="1260" />
     <option name="height" value="699" />
   </component>
@@ -49,6 +77,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonFullStack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonFullStack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -73,6 +115,150 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFullStack" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFullStack" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFullStack" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFullStack" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="PythonFullStack" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFullStack" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFullStack" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -87,9 +273,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="61" width="1260" height="699" extended-state="1" />
+    <frame x="405" y="101" width="1260" height="699" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -119,5 +306,126 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="748" column="0" lean-forward="false" selection-start-line="748" selection-start-column="0" selection-end-line="748" selection-end-column="0" />
+          <folding>
+            <marker date="1500261133000" expanded="true" signature="0:950" ph="&quot;&quot;&quot;Random variable generators....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="false" signature="952:1413" ph="import ..." />
+            <marker date="1500261133000" expanded="true" signature="1426:1781" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="1957:2135" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="2182:23437" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="2187:2676" ph="&quot;&quot;&quot;Random number generator base class used by bound module functions....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="2758:2927" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="2767:2874" ph="&quot;&quot;&quot;Initialize an instance....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="2967:4020" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="2976:3499" ph="&quot;&quot;&quot;Initialize internal state from hashable object....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="3557:3751" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="3820:3964" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="4045:4182" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="4214:5425" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="4339:4443" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="4470:5026" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="4543:4816" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="5040:5223" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="5070:5167" ph="&quot;...&quot;" />
+            <marker date="1500261133000" expanded="true" signature="5225:5425" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="5431:5642" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="5670:5714" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="5750:5793" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="5820:5871" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="5995:7499" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="6004:6202" ph="&quot;&quot;&quot;Choose a random item from range(start, stop[, step])....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="6212:6327" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="6475:6609" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="7529:7657" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="7796:9005" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="7952:8094" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="8167:8379" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="8388:8509" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="8534:8797" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="8553:8759" ph="&quot;...&quot;" />
+            <marker date="1500261133000" expanded="true" signature="9096:9344" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="9384:10140" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="9393:9633" ph="&quot;&quot;&quot;Shuffle list x in place, and return None....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="9661:9898" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="9750:9898" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="9912:10140" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="9984:10140" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="10178:12829" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="10187:11022" ph="&quot;&quot;&quot;Chooses k unique random elements from a population sequence or set....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="11032:11565" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="12188:12512" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="12317:12512" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="12526:12807" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="12626:12807" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="12905:13827" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="12914:13129" ph="&quot;&quot;&quot;Return a k sized list of population elements chosen with replacement....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="13190:13430" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="13222:13367" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="13829:13965" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="13995:14119" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="14233:14784" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="14242:14468" ph="&quot;&quot;&quot;Triangular distribution....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="14651:14733" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="14891:15548" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="14900:14998" ph="&quot;&quot;&quot;Normal distribution....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="15007:15294" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="15341:15520" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="15659:15976" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="15668:15925" ph="&quot;&quot;&quot;Log normal distribution....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="16082:16693" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="16091:16447" ph="&quot;&quot;&quot;Exponential distribution....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="16456:16645" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="16805:18157" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="16814:17146" ph="&quot;&quot;&quot;Circular data distribution....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="17155:17567" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="17737:17933" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="18264:20524" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="18273:18625" ph="&quot;&quot;&quot;Gamma distribution.  Not the gamma function!...&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="18635:18808" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="18977:19669" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="18991:19157" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="19286:19669" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="19697:19844" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="19859:20451" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="19999:20423" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="20281:20360" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="20557:21865" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="20566:20788" ph="&quot;&quot;&quot;Gaussian distribution....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="20798:21550" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="21661:21836" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="21867:22340" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="22381:22891" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="22390:22537" ph="&quot;&quot;&quot;Beta distribution....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="22547:22682" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="22928:23089" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="23187:23437" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="23196:23304" ph="&quot;&quot;&quot;Weibull distribution....&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="23537:24793" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="23542:23769" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1500261133000" expanded="true" signature="23792:23927" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="23958:24421" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="24457:24548" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="24595:24751" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="24889:25420" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="25058:25199" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="25441:26220" ph="..." />
+            <marker date="1500261133000" expanded="true" signature="26222:26551" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/004random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
