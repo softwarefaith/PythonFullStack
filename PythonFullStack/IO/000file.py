@@ -1,6 +1,12 @@
 # 文件读写
 """"""
+"""
 
+StringIO和BytesIO是在内存中操作str和bytes的方法，使
+得和读写文件具有一致的接口。
+
+
+"""
 
 
 try:
@@ -40,3 +46,29 @@ StringIO就是在内存中创建的file-like Object，常用作临时缓冲。
 with open('../a.text', 'r') as f:
     text = f.read()
     print(text)
+
+#
+
+from  io import StringIO
+
+f = StringIO()
+f.write('Hello')
+f.write('')
+num = f.write('Word!')  # 返回写入字符串的长度
+
+print(num)
+
+print(f.getvalue())
+
+f1=StringIO('My name is Allen.')
+
+while True:
+    s = f1.readline()
+    print(s)
+
+
+# BytesIO
+
+from io import BytesIO  #操作与 StringIO一样
+
+
