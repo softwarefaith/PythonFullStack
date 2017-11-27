@@ -20,8 +20,8 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="004Manager.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/009Processing/004Manager.py">
+      <file leaf-file-name="005Pool.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/009Processing/005Pool.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -66,6 +66,7 @@
         <option value="$PROJECT_DIR$/009Processing/002Queue.py" />
         <option value="$PROJECT_DIR$/009Processing/003Pipe.py" />
         <option value="$PROJECT_DIR$/009Processing/004Manager.py" />
+        <option value="$PROJECT_DIR$/009Processing/005Pool.py" />
       </list>
     </option>
   </component>
@@ -1115,6 +1116,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/009Processing/004Manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/009Processing/005Pool.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
