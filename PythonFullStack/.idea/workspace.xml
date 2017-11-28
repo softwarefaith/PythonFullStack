@@ -13,7 +13,9 @@
     <SUITE FILE_PATH="coverage/PythonFullStack$003Semaphore.coverage" NAME="003Semaphore Coverage Results" MODIFIED="1511431606181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008Thread" />
     <SUITE FILE_PATH="coverage/PythonFullStack$005thirdlib.coverage" NAME="005thirdlib Coverage Results" MODIFIED="1510030753137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
     <SUITE FILE_PATH="coverage/PythonFullStack$server.coverage" NAME="server Coverage Results" MODIFIED="1511166925897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/007Network" />
+    <SUITE FILE_PATH="coverage/PythonFullStack$005Pool.coverage" NAME="005Pool Coverage Results" MODIFIED="1511865034062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/009Processing" />
     <SUITE FILE_PATH="coverage/PythonFullStack$0001.coverage" NAME="000创建1 Coverage Results" MODIFIED="1511858262884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/009Processing" />
+    <SUITE FILE_PATH="coverage/PythonFullStack$004Manager.coverage" NAME="004Manager Coverage Results" MODIFIED="1511863346835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/009Processing" />
     <SUITE FILE_PATH="coverage/PythonFullStack$000file.coverage" NAME="000file Coverage Results" MODIFIED="1509963430144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IO" />
     <SUITE FILE_PATH="coverage/PythonFullStack$007Specialmethod.coverage" NAME="007Specialmethod Coverage Results" MODIFIED="1510587743433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/003OOP" />
     <SUITE FILE_PATH="coverage/PythonFullStack$0012.coverage" NAME="001创建2 Coverage Results" MODIFIED="1511857507392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/009Processing" />
@@ -22,13 +24,13 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="000创建1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/009Processing/000创建1.py">
+      <file leaf-file-name="005Pool.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/009Processing/005Pool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            <state relative-caret-position="361">
+              <caret line="30" column="8" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
               <folding>
-                <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#297#319#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,12 +67,12 @@
         <option value="$PROJECT_DIR$/008Thread/005event.py" />
         <option value="$PROJECT_DIR$/008Thread/006queue.py" />
         <option value="$PROJECT_DIR$/008Thread/007mutiprocessing.py" />
+        <option value="$PROJECT_DIR$/009Processing/001创建2.py" />
+        <option value="$PROJECT_DIR$/009Processing/000创建1.py" />
         <option value="$PROJECT_DIR$/009Processing/002Queue.py" />
         <option value="$PROJECT_DIR$/009Processing/003Pipe.py" />
         <option value="$PROJECT_DIR$/009Processing/004Manager.py" />
         <option value="$PROJECT_DIR$/009Processing/005Pool.py" />
-        <option value="$PROJECT_DIR$/009Processing/001创建2.py" />
-        <option value="$PROJECT_DIR$/009Processing/000创建1.py" />
       </list>
     </option>
   </component>
@@ -81,7 +83,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="116" />
+    <option name="x" value="154" />
     <option name="y" value="23" />
     <option name="width" value="1260" />
     <option name="height" value="699" />
@@ -184,45 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.000创建1">
-    <configuration default="false" name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/007Network" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonFullStack" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/007Network/server.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/007Network" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonFullStack" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/007Network/client.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.005Pool">
     <configuration default="false" name="003Semaphore" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,6 +239,44 @@
       <module name="PythonFullStack" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/009Processing/001创建2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="004Manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/009Processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFullStack" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/009Processing/004Manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="005Pool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/009Processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonFullStack" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/009Processing/005Pool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -429,19 +431,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.server" />
-      <item index="1" class="java.lang.String" itemvalue="Python.client" />
-      <item index="2" class="java.lang.String" itemvalue="Python.003Semaphore" />
-      <item index="3" class="java.lang.String" itemvalue="Python.000创建1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.001创建2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.003Semaphore" />
+      <item index="1" class="java.lang.String" itemvalue="Python.000创建1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.001创建2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.004Manager" />
+      <item index="4" class="java.lang.String" itemvalue="Python.005Pool" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.000创建1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.001创建2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.003Semaphore" />
-        <item index="3" class="java.lang.String" itemvalue="Python.server" />
-        <item index="4" class="java.lang.String" itemvalue="Python.client" />
+        <item index="0" class="java.lang.String" itemvalue="Python.005Pool" />
+        <item index="1" class="java.lang.String" itemvalue="Python.004Manager" />
+        <item index="2" class="java.lang.String" itemvalue="Python.000创建1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.001创建2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.003Semaphore" />
       </list>
     </recent_temporary>
   </component>
@@ -462,14 +464,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="116" y="23" width="1260" height="699" extended-state="0" />
-    <editor active="true" />
+    <frame x="154" y="23" width="1260" height="699" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271605" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -497,13 +498,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/007Network/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/005module/001useModule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1018,53 +1012,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/009Processing/002Queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/009Processing/003Pipe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/009Processing/004Manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/a.text">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/009Processing/005Pool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/multiprocessing/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          <folding>
-            <marker date="1500261136000" expanded="true" signature="0:420" ph="..." />
-            <marker date="1500261136000" expanded="false" signature="422:454" ph="import ..." />
-            <marker date="1500261136000" expanded="true" signature="456:493" ph="..." />
-            <marker date="1500261136000" expanded="true" signature="513:620" ph="..." />
-            <marker date="1500261136000" expanded="true" signature="667:725" ph="..." />
-            <marker date="1500261136000" expanded="true" signature="757:834" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1104,10 +1055,172 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/009Processing/000创建1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="304">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
+            <marker date="1511858337000" expanded="true" signature="0:34" ph="import ..." />
+            <marker date="1511858337000" expanded="true" signature="58:183" ph="..." />
+            <marker date="1511858337000" expanded="true" signature="85:183" ph="..." />
+            <marker date="1511858337000" expanded="true" signature="211:453" ph="..." />
+            <marker date="1511858337000" expanded="true" signature="273:327" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/multiprocessing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-636">
+          <caret line="84" column="6" lean-forward="false" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="6" />
+          <folding>
+            <marker date="1493219534000" expanded="true" signature="116:578" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="196:377" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="397:410" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="432:445" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="471:484" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="519:532" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="557:578" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="611:620" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="658:667" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="710:719" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="755:764" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="792:1277" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="817:830" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="851:864" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="887:904" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="926:939" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="974:987" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1042:1055" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1096:1109" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1160:1173" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1199:1212" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1264:1277" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1302:1340" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1363:1887" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1399:1431" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1453:1470" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1492:1513" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1534:1555" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1606:1619" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1651:1664" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1710:1723" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1750:1763" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1785:1798" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1826:1839" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1874:1887" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1916:2030" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1937:1958" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="1978:1991" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2017:2030" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2076:2148" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2101:2114" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2135:2148" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2173:2245" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2178:2231" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1493219534000" expanded="true" signature="2264:2277" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2302:2375" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2307:2354" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1493219534000" expanded="true" signature="2399:2408" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2439:2453" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2485:2494" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2536:2545" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2573:2582" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2614:2623" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2648:2912" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2708:2794" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2829:2842" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2864:2877" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2899:2912" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2939:3088" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="2972:2985" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3038:3051" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3075:3088" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3141:3150" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3177:3498" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3212:3225" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3256:3269" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3293:3306" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3341:3354" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3404:3417" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3445:3458" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3485:3498" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3521:3680" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3543:3564" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3584:3597" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3619:3632" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3667:3680" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3702:3802" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3752:3765" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3789:3802" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3825:4029" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3875:3888" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3912:3925" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="3951:3964" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="4016:4029" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="4077:4086" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="4149:4158" ph="..." />
+            <marker date="1493219534000" expanded="true" signature="4175:4216" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/multiprocessing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <marker date="1500261136000" expanded="true" signature="0:420" ph="..." />
+            <marker date="1500261136000" expanded="false" signature="422:454" ph="import ..." />
+            <marker date="1500261136000" expanded="true" signature="456:493" ph="..." />
+            <marker date="1500261136000" expanded="true" signature="513:620" ph="..." />
+            <marker date="1500261136000" expanded="true" signature="667:725" ph="..." />
+            <marker date="1500261136000" expanded="true" signature="757:834" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/009Processing/002Queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding>
+            <marker date="1511862393000" expanded="true" signature="40:426" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511862393000" expanded="true" signature="471:539" ph="..." />
+            <marker date="1511862393000" expanded="true" signature="560:629" ph="..." />
+            <marker date="1511862393000" expanded="true" signature="657:901" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/009Processing/003Pipe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <marker date="1511862551000" expanded="true" signature="0:283" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/009Processing/004Manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1511863346000" expanded="true" signature="0:60" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1511863346000" expanded="true" signature="124:200" ph="..." />
+            <marker date="1511863346000" expanded="true" signature="229:561" ph="..." />
+            <marker date="1511863346000" expanded="true" signature="261:561" ph="..." />
+            <marker date="1511863346000" expanded="true" signature="374:475" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/009Processing/005Pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="30" column="8" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+          <folding>
+            <element signature="e#297#319#0" expanded="true" />
           </folding>
         </state>
       </provider>
