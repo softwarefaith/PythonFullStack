@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>新闻中心_腾讯网</title>
+    <meta name="keywords" content="新闻 新闻中心 事实派 新闻频道,时事报道">
+    <meta name="description" content="腾讯新闻，事实派。新闻中心,包含有时政新闻、国内新闻、国际新闻、社会新闻、时事评论、新闻图片、新闻专题、新闻论坛、军事、历史、的专业时事报道门户网站">
+    <meta name="author" content="skeetershi" />
+    <meta name="applicable-device" content="pc,mobile">
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://xw.qq.com/">
+  <!--  <link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/news/skeetershi/news_index/css/index.min_080409.css"> -->
+    <link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/news/2018css/index.min_180905.css">
+    <!-- 2016.7.13 jackiejiang add house.com use-->
+<script src="//mat1.gtimg.com/house/js/h5rewrite.js"></script>
+
+<!--2014.3.20 byAustinjin-->
+<!--20140225 menshen-->
+<script type="text/javascript" src="//js.aq.qq.com/js/aq_common.js"></script><!--[if !IE]>|xGv00|135a509a6ac85759a2a10161f645f1ba<![endif]-->
+<script>
+!function(){var i=function(i){if(i&&i.indexOf("/a/")>0){var t=i.split("/")[2].split("qq.com")[0].split("."),e=i.split("/a/")[1].split(".htm")[0].replace(/[^0-9]/g,""),n="",o="",s="";if(o=3===t.length?t[0]+"_"+t[1]:t[0],s=o.indexOf("_")>0&&o.split("_")[0].length<3?(o.split("_")[0]+o.split("_")[1]).substring(0,3).toUpperCase():o.substring(0,3).toUpperCase(),o.indexOf("house")>0&&(s="HOU"),o.indexOf("auto")>0&&(s="AUT"),/cd|fj|cq|hb|gd|zj|ln|js/.test(o)&&(s=o.toUpperCase()+"C"),/henan/.test(o)&&(s="HNC"),/xian/.test(o)&&(s="XAC"),/hn/.test(o)&&(s="HNN"),/2016/.test(o)&&(s="BCP"),"undefined"!=typeof o&&"undefined"!=typeof e){if(o.split(".").length>2)for(var a=o.split(".").length,l=0;a>l;l++)n+=o.split(".")[l],a-2>l&&(n+="_");else n=o.split(".")[0];return"https://xw.qq.com/"+o+"/"+e+"/"+s+e+"00"}}},t={news:"news",photo:"photo",video:"video",view:"huati",finance:"finance",ent:"ent",sports:"sports",digi:"digi",mil:"mil",lady:"lady",auto:"auto",games:"games",house:"house",astro:"astro",cul:"cul",fashion:"fashion",2014:"shijiebei",2016:"2016",edu:"edu",nba:"nba",stock:"stock",health:"health",foxue:"fx",ly:"visit",vlike:"shipin",baby: "baby",tech:"tech",money:"lic",ac:"ac",society:"shehui"};if(/Android|webOS|iPhone|Windows Phone|iPod|BlackBerry|SymbianOS/i.test(navigator.userAgent)){var e=window.location.href;window.location.pathname;if(e.indexOf("/a/")>0&&"www.nanjing2014.org"!=window.location.hostname){if(e.indexOf("?pc")<0)try{window.location.href=i(e)}catch(n){}}else if(e.indexOf("?mobile")<0){var o=window.location.hostname.split(".")[0],s=window.location.pathname.split(".")[0].replace(/\//g,"").substring(0,3);if(/news|pp|video|view|finance|ent|sports|digi|mil|fashion|auto|games|house|astro|cul|2014|2016|stock|health|foxue|ly|vlike|edu|baby|tech|money|ac|society/i.test(o))try{"nba"==s?window.location.href="https://xw.qq.com/m/"+t[s]+"/":window.location.href="https://xw.qq.com/m/"+t[o]+"/?f=c_"+o}catch(n){}}try{}catch(n){}}}();
+</script><!--[if !IE]>|xGv00|bfa4f2c3306c2d4a39f5cb90d446eb08<![endif]-->
