@@ -13,3 +13,8 @@ print("圆周率：%f" %pi)
 #2进制，8进制，10进制 16进制
 num = 16
 print("%x"%num)
+
+
+s = 'abcdef'
+s.replace('abc','eeeeee')
+print(s)

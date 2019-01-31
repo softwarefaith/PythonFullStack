@@ -68,5 +68,5 @@ print(result)
 
 #根据指定数据获取数据在列表中的个数
 my_list=["西瓜","草莓",1,1,1]
-result = my_list.count(2)
+result = my_list.count(1)
 print(result)
