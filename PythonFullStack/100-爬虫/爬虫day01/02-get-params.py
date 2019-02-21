@@ -4,13 +4,21 @@ import string
 
 def get_method_params():
 
-    url = "http://www.baidu.com/s?wd="
+    url = "http://www.baidu.com/s?"
     #拼接字符串(汉字)
     #python可以接受的数据
     #https://www.baidu.com/s?wd=%E7%BE%8E%E5%A5%B3
 
     name = "美女"
-    final_url = url+name
+
+    parm = {
+        "wd": "美女",
+        'key': 'cai',
+        'value': 'jie'
+    };
+
+    #wd=%E7%BE%8E%E5%A5%B3&key=cai&value=jie
+    final_url = url+urllib.parse.urlencode(parm)
     print(final_url)
     #代码发送了请求
     #网址里面包含了汉字;ascii是没有汉字的;url转译
